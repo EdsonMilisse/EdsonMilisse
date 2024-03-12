@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EdsonMilisse
 - 👀 I’m interested in Python
-- 🌱 I’m currently learning Livewire
+- 🌱 I’m currently working with Laravel Livewire
 - 💞️ I’m looking to collaborate on opensource laravel projects
 - 📫 Maputo, Mozambique 
 - (+258) 875165855
